@@ -121,7 +121,7 @@ Tkinter is the standard GUI library for Python and comes pre-installed with Pyth
 1. **Run the Script:**
 
      ```sh
-    python nlp_command_executor.py
+    python terminal_runner.py
      ```
 
 
