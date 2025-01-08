@@ -110,13 +110,6 @@ Tkinter is the standard GUI library for Python and comes pre-installed with Pyth
     source venv/bin/activate
      ```
 
-### Step 6: Install Required Dependencies
-1. **Install Dependencies:**
-
-     ```sh
-    pip install -r requirements.txt
-     ```
-
 ## Usage
 1. **Run the Script:**
 
