@@ -1,7 +1,5 @@
 # <i> NLP Command Executor
 
-Basic description of your project.
-
 ## Introduction
 
 NLP Command Executor is a graphical user interface (GUI) based tool designed to execute terminal commands using natural language prompts. This tool aims to simplify the process of running commands by allowing users to input plain English descriptions, which are then mapped to corresponding terminal commands. The application also includes features for command history management, command suggestions, and basic validation to prevent potentially dangerous actions.
